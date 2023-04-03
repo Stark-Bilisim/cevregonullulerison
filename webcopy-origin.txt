@@ -1,0 +1,1060 @@
+Uri: http://cevregonulluleri.org/wp-content/plugins/elementor/assets/images/placeholder.png
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\images\placeholder-1.png
+Content Type: image/png
+
+Uri: https://cevregonulluleri.org/
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\index-2.htm
+Content Type: text/html
+
+Uri: https://cevregonulluleri.org/2023/02/08/
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\2023\02\08\index-1.htm
+Content Type: text/html
+
+Uri: https://cevregonulluleri.org/author/StarkAdmin/
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\author\StarkAdmin\index.htm
+Content Type: text/html
+
+Uri: https://cevregonulluleri.org/author/StarkAdmin/feed/
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\author\StarkAdmin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://cevregonulluleri.org/blog/
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\blog\index-1.htm
+Content Type: text/html
+
+Uri: https://cevregonulluleri.org/comments/feed/
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\comments\feed\index-2.htm
+Content Type: application/rss+xml
+
+Uri: https://cevregonulluleri.org/feed/
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\feed\index-2.htm
+Content Type: application/rss+xml
+
+Uri: https://cevregonulluleri.org/hakkimizda/
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\hakkimizda\index-1.htm
+Content Type: text/html
+
+Uri: https://cevregonulluleri.org/hello-world/
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\hello-world\index-2.htm
+Content Type: text/html
+
+Uri: https://cevregonulluleri.org/hello-world/?replytocom=1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\hello-world\index-3.htm
+Content Type: text/html
+
+Uri: https://cevregonulluleri.org/hello-world/feed/
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\hello-world\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://cevregonulluleri.org/iletisim/
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\iletisim\index-1.htm
+Content Type: text/html
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.10.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor-pro/assets/css/widget-animated-headline.min.css
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor-pro\assets\css\widget-animated-headline.min-1.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor-pro\assets\css\widget-nav-menu.min-1.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor-pro/assets/css/widget-posts.min.css
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor-pro\assets\css\widget-posts.min-1.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor-pro/assets/css/widget-share-buttons.min.css
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor-pro\assets\css\widget-share-buttons.min-1.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor-pro\assets\css\widget-theme-elements.min-1.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.10.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.10.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor-pro\assets\js\frontend.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.10.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.10.2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\css\frontend-lite.min-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\css\widget-icon-box.min-1.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\css\widget-icon-list.min-1.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.10.2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\js\frontend-modules.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.10.2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\js\frontend.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.10.2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\js\webpack.runtime.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.10.2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\animations\animations.min-1.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\e-gallery\css\e-gallery.min-1.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\e-gallery\js\e-gallery.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.17.0
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.17.0
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.17.0
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.17.0
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.ttf
+Content Type: font/ttf
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.17.0
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff2
+Content Type: font/woff2
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.17.0
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff
+Content Type: font/woff
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min-1.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.ttf
+Content Type: font/ttf
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.woff
+Content Type: font/woff
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.woff2
+Content Type: font/woff2
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.ttf
+Content Type: font/ttf
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.woff
+Content Type: font/woff
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.woff2
+Content Type: font/woff2
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.ttf
+Content Type: font/ttf
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.woff
+Content Type: font/woff
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.woff2
+Content Type: font/woff2
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=2.8.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\swiper\swiper.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.8.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.8.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit-1.woff
+Content Type: font/woff
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.8.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.8.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow-1.png
+Content Type: image/png
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc-1.png
+Content Type: image/png
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled-1.png
+Content Type: image/png
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc-1.png
+Content Type: image/png
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.8.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.8.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.8.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/to-top/public/css/to-top-public.css?ver=2.5.2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\to-top\public\css\to-top-public-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/plugins/to-top/public/js/to-top-public.js?ver=2.5.2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\plugins\to-top\public\js\to-top-public-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\themes\hello-elementor\assets\js\hello-frontend.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-content/themes/hello-elementor/style.min.css?ver=2.6.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\themes\hello-elementor\style.min-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/themes/hello-elementor/theme.min.css?ver=2.6.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\themes\hello-elementor\theme.min-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/cevreLogo-150x150.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\cevreLogo-150x150-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/cevreLogo-300x300.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\cevreLogo-300x300-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/cevreLogo-768x768.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\cevreLogo-768x768-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/cevreLogo.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\cevreLogo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/client1.png
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\client1-1.png
+Content Type: image/png
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/client2.png
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\client2-1.png
+Content Type: image/png
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/client3.png
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\client3-1.png
+Content Type: image/png
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/client4.png
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\client4-1.png
+Content Type: image/png
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/client5.png
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\client5-1.png
+Content Type: image/png
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/cropped-306948927_422825749990942_1004161887526500710_n-180x180.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\cropped-306948927_422825749990942_1004161887526500710_n-180x180-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/cropped-306948927_422825749990942_1004161887526500710_n-192x192.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\cropped-306948927_422825749990942_1004161887526500710_n-192x192-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/cropped-306948927_422825749990942_1004161887526500710_n-32x32.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\cropped-306948927_422825749990942_1004161887526500710_n-32x32-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/icon1-1.png
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\icon1-1-1.png
+Content Type: image/png
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/icon2-1.png
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\icon2-1-1.png
+Content Type: image/png
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/icon3-1.png
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\icon3-1-1.png
+Content Type: image/png
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/icon4-1.png
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\icon4-1-1.png
+Content Type: image/png
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img1.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img10-1024x683.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img10-1024x683-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img10-300x200.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img10-300x200-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img10-600x400.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img10-600x400-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img10-768x512.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img10-768x512-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img10.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img11.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img11-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img12.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img13.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img13-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img17-100x100.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img17-100x100-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img17-150x150.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img17-150x150-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img17.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img17-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img17.png
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img17-1.png
+Content Type: image/png
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img18-100x100.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img18-100x100-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img18-150x150.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img18-150x150-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img18.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img18-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img19-100x100.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img19-100x100-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img19-150x150.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img19-150x150-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img19.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img19-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img2.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img20.png
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img20-1.png
+Content Type: image/png
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img21.png
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img21-1.png
+Content Type: image/png
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img22.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img22-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img23.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img23-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img24.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img24-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img25.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img25-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img26.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img26-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img27.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img27-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img28.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img28-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img29.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img29-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img3.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img30.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img30-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img31.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img31-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img32.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img32-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img4-300x201.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img4-300x201-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img4-600x401.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img4-600x401-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img4-768x514.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img4-768x514-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img4.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img5-221x300.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img5-221x300-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img5.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img6-100x100.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img6-100x100-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img6-150x150.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img6-150x150-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img6-300x300.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img6-300x300-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img6.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img7-100x100.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img7-100x100-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img7.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img8-1024x683.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img8-1024x683-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img8-300x200.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img8-300x200-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img8-600x400.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img8-600x400-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img8-768x512.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img8-768x512-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img8.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img8.png
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img8-1.png
+Content Type: image/png
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img9-1024x683.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img9-1024x683-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img9-300x200.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img9-300x200-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img9-600x400.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img9-600x400-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img9-768x512.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img9-768x512-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/2023/02/img9.jpg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\2023\02\img9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/elementor/css/post-148.css?ver=1678642280
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\elementor\css\post-148-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/elementor/css/post-160.css?ver=1678626256
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\elementor\css\post-160-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/elementor/css/post-163.css?ver=1678626256
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\elementor\css\post-163-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/elementor/css/post-166.css?ver=1678643275
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\elementor\css\post-166-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/elementor/css/post-17.css?ver=1677049365
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\elementor\css\post-17-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/elementor/css/post-171.css?ver=1678647292
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\elementor\css\post-171-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/elementor/css/post-174.css?ver=1678643760
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\elementor\css\post-174-1.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/elementor/css/post-180.css?ver=1678644835
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\elementor\css\post-180-1.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/elementor/css/post-186.css?ver=1679140597
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\elementor\css\post-186-1.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/elementor/css/post-34.css?ver=1678636218
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\elementor\css\post-34-1.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-content/uploads/elementor/css/post-39.css?ver=1678636210
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-content\uploads\elementor\css\post-39-1.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\css\classic-themes.min-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-includes/css/classic-themes.min.css?ver=6.2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\css\classic-themes.min-3.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-includes/css/dashicons.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\css\dashicons.min-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-includes/css/dashicons.min.css?ver=6.2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\css\dashicons.min-3.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\css\dist\block-library\style.min-2.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-includes/css/dist/block-library/style.min.css?ver=6.2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\css\dist\block-library\style.min-3.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\fonts\dashicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cevregonulluleri.org/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\fonts\dashicons-1.ttf
+Content Type: font/ttf
+
+Uri: https://cevregonulluleri.org/wp-includes/js/comment-reply.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\comment-reply.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-includes/js/comment-reply.min.js?ver=6.2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\comment-reply.min-2.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\dist\hooks.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\dist\i18n.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\dist\vendor\regenerator-runtime.min-2.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\dist\vendor\regenerator-runtime.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\dist\vendor\wp-polyfill.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\imagesloaded.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\jquery\jquery-migrate.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\jquery\jquery-migrate.min-2.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-includes/js/jquery/jquery.min.js?ver=3.6.3
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\jquery\jquery.min-2.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\jquery\ui\core.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\mediaelement\mediaelement-and-player.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\mediaelement\mediaelement-migrate.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\mediaelement\mediaelementplayer-legacy.min-1.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\mediaelement\mejs-controls-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cevregonulluleri.org/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\mediaelement\wp-mediaelement.min-1.css
+Content Type: text/css
+
+Uri: https://cevregonulluleri.org/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\js\mediaelement\wp-mediaelement.min-1.js
+Content Type: application/javascript
+
+Uri: https://cevregonulluleri.org/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-includes\wlwmanifest-1.xml
+Content Type: application/xml
+
+Uri: https://cevregonulluleri.org/wp-json/
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-json\index-2.htm
+Content Type: application/json
+
+Uri: https://cevregonulluleri.org/wp-json/oembed/1.0/embed?url=https:%2F%2Fcevregonulluleri.org%2F
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://cevregonulluleri.org/wp-json/oembed/1.0/embed?url=https:%2F%2Fcevregonulluleri.org%2F&format=xml
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://cevregonulluleri.org/wp-json/oembed/1.0/embed?url=https:%2F%2Fcevregonulluleri.org%2Fblog%2F
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://cevregonulluleri.org/wp-json/oembed/1.0/embed?url=https:%2F%2Fcevregonulluleri.org%2Fblog%2F&format=xml
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://cevregonulluleri.org/wp-json/oembed/1.0/embed?url=https:%2F%2Fcevregonulluleri.org%2Fhakkimizda%2F
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://cevregonulluleri.org/wp-json/oembed/1.0/embed?url=https:%2F%2Fcevregonulluleri.org%2Fhakkimizda%2F&format=xml
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://cevregonulluleri.org/wp-json/oembed/1.0/embed?url=https:%2F%2Fcevregonulluleri.org%2Fhello-world%2F
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://cevregonulluleri.org/wp-json/oembed/1.0/embed?url=https:%2F%2Fcevregonulluleri.org%2Fhello-world%2F&format=xml
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://cevregonulluleri.org/wp-json/oembed/1.0/embed?url=https:%2F%2Fcevregonulluleri.org%2Filetisim%2F
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://cevregonulluleri.org/wp-json/oembed/1.0/embed?url=https:%2F%2Fcevregonulluleri.org%2Filetisim%2F&format=xml
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://cevregonulluleri.org/wp-json/wp/v2/pages/148
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-json\wp\v2\pages\148-2
+Content Type: application/json
+
+Uri: https://cevregonulluleri.org/wp-json/wp/v2/pages/174
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-json\wp\v2\pages\174-1
+Content Type: application/json
+
+Uri: https://cevregonulluleri.org/wp-json/wp/v2/pages/180
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-json\wp\v2\pages\180-1
+Content Type: application/json
+
+Uri: https://cevregonulluleri.org/wp-json/wp/v2/pages/186
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-json\wp\v2\pages\186-1
+Content Type: application/json
+
+Uri: https://cevregonulluleri.org/wp-json/wp/v2/posts/1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\wp-json\wp\v2\posts\1-1
+Content Type: application/json
+
+Uri: https://cevregonulluleri.org/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\xmlrpc-1.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Open+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Raleway:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&subset=latin-ext&ver=6.1.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Open+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&subset=latin-ext&ver=6.1.1
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Open+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&subset=latin-ext&ver=6.2
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\css-5
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWV4exQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWV4exQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV4exQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV4exQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV4exQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV4exQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWV4exQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWV4exQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWV4exQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWV4exQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWV4exQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWV4exQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVc.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4uaVc.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4uaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4uaVc.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4uaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4uaVc.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4uaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4uaVc.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4uaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVc.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tMMPc.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tMMPc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1JlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1JlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1JlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1JlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1JlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1JlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1JlEA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VGdeL.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VGdeL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVGdeL.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVGdeL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVGdeL.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVGdeL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVGdeL.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVGdeL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VGdeL.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VGdeL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVGdeL.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVGdeL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VGdeL.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VGdeL-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJnedw.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\poppins\v20\pxiEyp8kv8JHgFVrJJnedw-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLufntF.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\poppins\v20\pxiGyp8kv8JHgFVrJJLufntF-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTufntF.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\poppins\v20\pxiGyp8kv8JHgFVrLPTufntF-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCGPrQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCGPrQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCGPrQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCGPrQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCGPrQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCGPrQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCGPrQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCGPrQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCGPrQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCGPrQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCGPrQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCGPrQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CGPrQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CGPrQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCGPrQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCGPrQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCGPrQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCGPrQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDr0fJQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDr0fJQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDr0fJQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDr0fJQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDr0fJQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDr0fJQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDr0fJQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDr0fJQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDr0fJQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDr0fJQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDr0fJQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDr0fJQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDr0fJQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDr0fJQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDr0fJQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDr0fJQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDr0fJQ.ttf
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\s\raleway\v28\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDr0fJQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://secure.gravatar.com/avatar/bf0f7ccaae6cbdc8a8e13a9ed8dcbe1f?s=300&d=mm&r=g
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\avatar\bf0f7ccaae6cbdc8a8e13a9ed8dcbe1f-1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=42&d=mm&r=g
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\avatar\d7a973c7dab26985da5f961be7b74480-2.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=84&d=mm&r=g
+File Name: C:\Downloaded Web Sites\cevregonulluleri.org\avatar\d7a973c7dab26985da5f961be7b74480-3.png
+Content Type: image/png
+
